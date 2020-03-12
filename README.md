@@ -14,7 +14,7 @@ This is a proposal to add a way to define ranges of numbers in a straight forwar
 - C# `Enumerable.Range(a, b)`
 - Python `range(a, b+1)`
 - Java `Range.between(a, b)`
-- Coffeescript `a..b`
+- Coffeescript `[a..b]`
 
 ## Motivation
 
